@@ -15,4 +15,4 @@ Online book selling platform where users can buy and sell old and new books. The
 * [x] Payment Gateway
 
 **Future Scope**
-Currently the website can cater only limited number of requests which can  be further scaled up to reach graeter audience.
+Currently the website can cater only limited number of requests which can  be further scaled up to reach greater audience.
